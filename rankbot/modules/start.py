@@ -30,8 +30,8 @@ async def start(_, message):
             InlineKeyboardButton("➕𝖠𝖣𝖣 𝖬𝖤 𝖨𝖭 𝖸𝖮𝖴𝖱 𝖦𝖱𝖮𝖴𝖯➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
         ],
         [
-            InlineKeyboardButton("🆘𝖲𝖴𝖯𝖱𝖮𝖳🆘", url="https://t.me/DAXXSUPPORT"),
-            InlineKeyboardButton("🧑‍💻𝖣𝖤𝖵🧑‍💻", user_id=OWNER_ID)
+            InlineKeyboardButton("🎮SUPPORT🎮", url="https://t.me/ll_R2F_FRIENDS_ll"),
+            InlineKeyboardButton("😘SHIVANG😘", user_id=OWNER_ID)
         ]
     ]
     
